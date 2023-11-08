@@ -16,3 +16,7 @@ This is my final front end project.
 #Demo video of project
 https://drive.google.com/file/d/1_EHeM4fuPt7-TG4ye0linyRNXzINTg4X/view?usp=sharing
 
+
+https://github.com/AyushSaini09/Shoes-frontend/assets/146984591/be502694-fd84-4d9c-8ab6-d64fdfc8b805
+
+
