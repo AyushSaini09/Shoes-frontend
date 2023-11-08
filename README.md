@@ -13,4 +13,6 @@ This is my final front end project.
 #Review section
 <img width="1213" alt="Screenshot 2023-11-08 at 8 55 48 PM" src="https://github.com/AyushSaini09/Shoes-frontend/assets/146984591/174baa9e-d6a3-4a41-b375-839d7600ba43">
 
+#Demo video of project
+https://drive.google.com/file/d/1_EHeM4fuPt7-TG4ye0linyRNXzINTg4X/view?usp=sharing
 
